@@ -4,3 +4,5 @@ pyproject.toml
 .breakpoints
 replit.nix
 venv/
+.idea
+__pycache__
